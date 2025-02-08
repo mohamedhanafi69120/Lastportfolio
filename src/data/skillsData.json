@@ -7,8 +7,7 @@
       "icon": "bx bxl-javascript",
       "colorClass": "javascript-color"
     },
-    { "label": "React", "icon": "bx bxl-react", "colorClass": "react-color" },
-    { "label": "Figma", "icon": "bx bxl-figma", "colorClass": "figma-color" }
+    { "label": "React", "icon": "bx bxl-react", "colorClass": "react-color" }
   ],
   "backend": [
     {
@@ -22,6 +21,6 @@
       "icon": "bx bxl-github",
       "colorClass": "github-color"
     },
-    { "label": "CSS", "icon": "bx bxl-css3", "colorClass": "css-color" }
+    { "label": "Figma", "icon": "bx bxl-figma", "colorClass": "figma-color" }
   ]
 }
